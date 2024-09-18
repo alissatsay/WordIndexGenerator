@@ -9,7 +9,7 @@ This program scans a given text and generates a Dictionary structure as a binary
 # Installation
 Clone the repository:
 ```bash
- git clone https://github.com/yourusername/yourproject.git
+ git clone https://github.com/alissatsay/WordIndexGenerator.git
 ```
 
 # Usage
